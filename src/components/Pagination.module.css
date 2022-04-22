@@ -1,0 +1,10 @@
+.next_previous_box {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.next_previous_box > div > a {
+    text-decoration: none;
+    font-weight: bold;
+}
